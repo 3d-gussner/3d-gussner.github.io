@@ -1,0 +1,4 @@
+<map id="CardReader" name="CardReader">
+<area shape="rect" id="node1" title=" " alt="" coords="5,95,104,121"/>
+<area shape="rect" id="node2" href="$classSd2Card.html" title="Raw access to SD and SDHC flash memory cards." alt="" coords="17,5,93,32"/>
+</map>

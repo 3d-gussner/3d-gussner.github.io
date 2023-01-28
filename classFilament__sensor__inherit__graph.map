@@ -1,0 +1,6 @@
+<map id="Filament_sensor" name="Filament_sensor">
+<area shape="rect" id="node1" title=" " alt="" coords="75,5,203,32"/>
+<area shape="rect" id="node2" href="$classIR__sensor.html" title=" " alt="" coords="31,80,116,107"/>
+<area shape="rect" id="node4" href="$classPAT9125__sensor.html" title=" " alt="" coords="140,80,268,107"/>
+<area shape="rect" id="node3" href="$classIR__sensor__analog.html" title=" " alt="" coords="5,155,141,181"/>
+</map>

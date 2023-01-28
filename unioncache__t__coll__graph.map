@@ -1,0 +1,9 @@
+<map id="cache_t" name="cache_t">
+<area shape="rect" id="node1" title="Cache for an SD data block." alt="" coords="271,184,343,211"/>
+<area shape="rect" id="node2" href="$structdirectoryEntry.html" title="FAT short directory entry." alt="" coords="5,95,120,121"/>
+<area shape="rect" id="node3" href="$structfat32__fsinfo.html" title="FSINFO sector for a FAT32 volume." alt="" coords="145,95,245,121"/>
+<area shape="rect" id="node4" href="$structfat__boot.html" title="Boot sector for a FAT12/FAT16 volume." alt="" coords="269,95,345,121"/>
+<area shape="rect" id="node5" href="$structmasterBootRecord.html" title="Master Boot Record." alt="" coords="369,95,511,121"/>
+<area shape="rect" id="node6" href="$structpartitionTable.html" title="MBR partition table entry." alt="" coords="385,5,495,32"/>
+<area shape="rect" id="node7" href="$structfat32__boot.html" title="Boot sector for a FAT32 volume." alt="" coords="535,95,627,121"/>
+</map>

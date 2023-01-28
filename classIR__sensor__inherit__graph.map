@@ -1,0 +1,5 @@
+<map id="IR_sensor" name="IR_sensor">
+<area shape="rect" id="node1" title=" " alt="" coords="31,80,116,107"/>
+<area shape="rect" id="node3" href="$classIR__sensor__analog.html" title=" " alt="" coords="5,155,141,181"/>
+<area shape="rect" id="node2" href="$classFilament__sensor.html" title=" " alt="" coords="9,5,137,32"/>
+</map>

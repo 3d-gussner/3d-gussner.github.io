@@ -1,0 +1,4 @@
+<map id="masterBootRecord" name="masterBootRecord">
+<area shape="rect" id="node1" title="Master Boot Record." alt="" coords="5,95,148,121"/>
+<area shape="rect" id="node2" href="$structpartitionTable.html" title="MBR partition table entry." alt="" coords="21,5,132,32"/>
+</map>

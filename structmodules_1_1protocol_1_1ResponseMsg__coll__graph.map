@@ -1,0 +1,4 @@
+<map id="modules::protocol::ResponseMsg" name="modules::protocol::ResponseMsg">
+<area shape="rect" id="node1" title="A response message &#45; responses are being sent from the MMU into the printer as a response to a reques..." alt="" coords="5,109,152,151"/>
+<area shape="rect" id="node2" href="$structmodules_1_1protocol_1_1RequestMsg.html" title="A request message &#45; requests are being sent by the printer into the MMU." alt="" coords="5,5,152,47"/>
+</map>
